@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🖥 
 
 <!--
 **L-Maepa/L-Maepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently learning how to use GitHub.
-I am a first year Bsc IT student at North West University in South Africa.
+
+I am a <b>second</b> year Bsc Information Technology student at North West University in South Africa currently working on developing websites and learning more about programming concepts, principles and languages. Be on the lookout as I will be contributing a lot from now.
