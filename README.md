@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am a <b>second</b> year Bsc Information Technology student at North West University in South Africa currently working on developing websites and learning more about programming concepts, principles and languages. Be on the lookout as I will be contributing a lot from now.
+[![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethabomaepa11)](https://github.com/anuraghazra/github-readme-statsshow_icons=true&theme=dark)
