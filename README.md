@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an aspiring web developer and <b>second</b> year Bsc Information Technology student at North West University in South Africa. 
+I am an aspiring web developer and <b>final</b> year Bsc Information Technology student at North West University in South Africa. 
 Languages: Javascript, Python, C++, C#, Java and SQL
+<br/><br/>
 [![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethabomaepa11)](https://github.com/anuraghazra/github-readme-statsshow_icons=true&theme=dark)
