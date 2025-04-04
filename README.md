@@ -1,4 +1,4 @@
-### Hi there 👋🖥 
+### Greetings 👋🖥 
 View my Portfolio here: [Lethabo Maepa](https://lethabomaepa.netlify.app/)
 <!--
 **L-Maepa/L-Maepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am an aspiring web developer and <b>final</b> year Bsc Information Technology student at North West University in South Africa. 
-Languages: Javascript, Python, C++, C#, Java and SQL
-<br/><br/>
+Welcome to my Github Profile, I am a final year BSc Information Technology, a Tech and Innovation Lead for the North-West University vaal Geekulcha student society.
 [![Lethabo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethabomaepa11)](https://github.com/anuraghazra/github-readme-statsshow_icons=true&theme=dark)
