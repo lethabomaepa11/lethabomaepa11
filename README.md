@@ -1,4 +1,4 @@
-<img src="https://github.com/lethabomaepa11/lethabomaepa11/blob/main/assets/Design%20(2).png" style="width: 100%;"/>
+<img src="https://github.com/lethabomaepa11/lethabomaepa11/blob/main/assets/Design%20(2).png" style="width: 100vw;height: 50vh;"/>
 # 💫 About Me:
 I'm always learning...
 
