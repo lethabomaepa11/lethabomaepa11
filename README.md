@@ -1,7 +1,13 @@
 <img src="https://github.com/lethabomaepa11/lethabomaepa11/blob/main/assets/image.png" style="width: 100%; height: auto;" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lethabomaepa11&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 # 💫 About Me
-Aspiring Software Engineer | Passionate about building fullstack apps | Currently exploring React & React Native
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Passionate+about+tech;Problem+Solver;Exploring+React+Native+and+Angular" alt="Typing SVG" />
+</p>
 
 I’m a final-year student who loves turning ideas into real, working apps. I'm always learning, shipping, and improving.
 
