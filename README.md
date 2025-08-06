@@ -1,8 +1,6 @@
 <img src="https://github.com/lethabomaepa11/lethabomaepa11/blob/main/assets/image.png" style="width: 100%; height: auto;" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lethabomaepa11&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 # 💫 About Me
 <p align="center">
