@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Passionate+about+tech;Problem+Solver;Exploring+React+Native+and+Angular" alt="Typing SVG" />
 </p>
 
-I’m a final-year student who loves turning ideas into real, working apps. I'm always learning, shipping, and improving.
+Graduate Software Engineer
 
 ---
 
