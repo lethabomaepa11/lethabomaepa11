@@ -1,15 +1,11 @@
-<img src="https://github.com/lethabomaepa11/lethabomaepa11/blob/main/assets/image.png" style="width: 100%; height: auto;" />
-
-
 
 # 💫 About Me
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Passionate+about+tech;Problem+Solver;Exploring+React+Native+and+Angular" alt="Typing SVG" />
 </p>
 
-Graduate Software Engineer
+## Graduate Software Engineer
 
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lethabomaepa11/) 
